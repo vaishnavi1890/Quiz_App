@@ -21,12 +21,13 @@ import { MessageService } from 'primeng/api';
 @NgModule({
   declarations: [
     AppComponent,
+    LoginComponent,
+    RegisterComponent,
     WelcomeComponent,
     QuestionComponent,
     HeaderComponent,
     ChangeBgDirective,
-    LoginComponent,
-    RegisterComponent,
+    
     
   ],
   imports: [
